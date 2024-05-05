@@ -22,7 +22,7 @@ Online Judge is a web application that allows users to solve programming problem
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aditya028/onlinJudge.git
+    https://github.com/shivamsince0502/onlineJudge.git
     ```
 
 2. Run Docker command:
