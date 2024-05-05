@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/{username}/{repository}?style=flat-square)](https://github.com/aditya028/onlineJudge/blob/master/LICENSE)
 
 ## YouTube Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sHLP9z4lS5Q/0.jpg)](http://www.youtube.com/watch?v=sHLP9z4lS5Q)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sHLP9z4lS5Q/0.jpg)](https://youtu.be/bKeKlHllKws)
 
 ## Description
 
